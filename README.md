@@ -1,4 +1,4 @@
-![Amazon Sales Dashboard ](https://github.com/user-attachments/assets/909b7e9e-694d-4e4f-9616-e553c4a12a8b)# 📊 Amazon Sales Data Dashboard
+# 📊 Amazon Sales Data Dashboard
 
 An **interactive Power BI dashboard** built using **Amazon Sales Data** to analyze sales, profit, returns, and customer behavior. The project also leverages **AI tools (Julius, Gamma)** to derive insights and prepare a **business-ready presentation** for non-technical stakeholders.
 
@@ -40,7 +40,7 @@ This project demonstrates how **AI + Data Analytics** can work together to:
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard ](https://github.com/user-attachments/assets/24f325ff-980a-4dc1-b46b-79e0ab6f8f7f)
+![Amazon Sales Dashboard ](https://github.com/user-attachments/assets/9f6bb607-6204-4bec-a14f-599e6f0cc4fd)
 
 
 ---
