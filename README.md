@@ -48,5 +48,5 @@ This project demonstrates how **AI + Data Analytics** can work together to:
 
 ## 📬 Connect With Me
 
-* 💼 [LinkedIn](https://linkedin.com/in/aditi-latane-763b52297)
+* [LinkedIn](https://linkedin.com/in/aditi-latane-763b52297)
 * [Email](aditiplatan@gmail.com)
