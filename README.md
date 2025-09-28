@@ -14,6 +14,7 @@ An **interactive Power BI dashboard** built using **Amazon Sales Data** to analy
   * Returns & payment mode analysis
 * Derived **actionable insights** for business stakeholders.
 * Created a **presentation** explaining the insights in simple, business-friendly terms.
+  [Dataset](https://link.officemaster.in/PowerBI-Dataset)
 
 ---
 
