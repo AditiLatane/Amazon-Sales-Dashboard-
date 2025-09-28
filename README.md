@@ -4,7 +4,7 @@ An **interactive Power BI dashboard** built using **Amazon Sales Data** to analy
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 * Built a **Power BI dashboard** to visualize key metrics:
 
@@ -17,15 +17,15 @@ An **interactive Power BI dashboard** built using **Amazon Sales Data** to analy
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Power BI** – Dashboard creation & data visualization
 * **Julius AI & Gamma AI** – Insight generation & stakeholder presentation support
 * **Amazon Sales Dataset** – Input data
 
---
+---
 
-## 🌟 Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates how **AI + Data Analytics** can work together to:
 
